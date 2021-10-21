@@ -1,6 +1,5 @@
-Hi, My name is Vaibhav Pal.
+Hi, I am Vaibhav.
 
-#Check out live [spotify-web-app ](https://www.google.com)
 
 To run this project use your spotify login credentials.
 1. open `.env` file and add your client_id from spotify dashboard 
