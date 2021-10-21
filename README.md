@@ -8,7 +8,8 @@ To run this project use your spotify login credentials.
 # Follow this To run this project in your localhost 
 Now open vscode terminal go to project master directory and instal npm package.
 1. npm install
-
+ 
 Next step type this command into terminal to start the project in your loaclhost (http://localhost:3000/)
+
 2. npm start
 
