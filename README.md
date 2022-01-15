@@ -1,14 +1,16 @@
 Hi, I am Vaibhav.
 
 
-To run this project use your spotify login credentials.
+
+
+# Follow these steps to run this project in your localhost 
+
 1. open `.env` file and add your client_id from spotify dashboard 
 
-# Follow this To run this project in your localhost 
 Now open vscode terminal go to project master directory and instal npm package.
-1. npm install
+2. npm install
  
 Next step type this command into terminal to start the project in your loaclhost (http://localhost:3000/)
 
-2. npm start
+3. npm start
 
