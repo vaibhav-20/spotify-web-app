@@ -8,6 +8,7 @@ Hi, I am Vaibhav.
 1. open `.env` file and add your client_id from spotify dashboard 
 
 Now open vscode terminal go to project master directory and instal npm package.
+
 2. npm install
  
 Next step type this command into terminal to start the project in your loaclhost (http://localhost:3000/)
